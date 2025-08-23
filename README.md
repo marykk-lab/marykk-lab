@@ -19,6 +19,8 @@
 ---
 
 ### 🌟 Featured Projects
-
+- [📌 Library Management System](https://github.com/marykk-lab/LibraryManagement.git) — A web application for managing books, users, and transactions, built with **Spring Boot** and **PostgreSQL**.  
+- [📌 Boardgames Shop](https://github.com/marykk-lab/boardgames.git) — An online store for board games, developed with **Django** and **SQLite**.  
+- [📌 Music Project](https://github.com/marykk-lab/music_project_final.git) — A system for saving and managing music collections, powered by **FastAPI** and **SQLite**.
 
 ---
